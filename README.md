@@ -1,2 +1,2 @@
 # PomSystem
-mini program
+mini program by ChefOrCoder
